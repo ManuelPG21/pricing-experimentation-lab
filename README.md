@@ -1,5 +1,7 @@
 # Pricing & Experimentation Lab
 
+> **Personal project.** Built independently in my own time with public data. It is not affiliated with, commissioned by, or derived from any employer, client or academic institution.
+
 Statistical toolkit and end-to-end analysis for **pricing decisions**: where revenue concentrates, how
 demand responds to price, and how to design a randomized price test that can actually detect the effect.
 
@@ -50,4 +52,4 @@ pytest -q
 
 ## Author
 
-Manuel Alejandro Polo González · [Portfolio](https://manuelpg21.github.io/data-ml-portfolio/) · [LinkedIn](https://www.linkedin.com/in/manuel-alejandro-p-339754118)
+Manuel Alejandro Polo González · [LinkedIn](https://www.linkedin.com/in/manuel-alejandro-p-339754118)
